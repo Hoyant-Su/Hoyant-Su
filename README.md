@@ -1,7 +1,6 @@
-### Hi there 👋
-### I'm currently an undergraduate senior in Fudan university.
-### I'm currently learning Sodility and developing on Remix.
-### My graduate studies will be conducted at Shanghai AI LAB.
+Undergraduate senior in Fudan university
+Currently learning Sodility & developing on Remix
+My graduate studies will be conducted at Shanghai AI LAB.
 
 
 <!--
