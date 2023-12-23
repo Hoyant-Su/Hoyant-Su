@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm currently an undergraduate senior in Fudan university.
+### I'm currently learning Sodility and developing on Remix.
+### My graduate studies will be conducted at Shanghai AI LAB.
+
 
 <!--
 **Hoyant-Su/Hoyant-Su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
