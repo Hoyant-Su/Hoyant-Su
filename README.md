@@ -1,5 +1,7 @@
 Undergraduate senior in Fudan university
+
 Currently learning Sodility & developing on Remix
+
 My graduate studies will be conducted at Shanghai AI LAB.
 
 
