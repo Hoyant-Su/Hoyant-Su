@@ -1,8 +1,8 @@
-Undergraduate senior in Fudan university
+B.A. from Fudan university
 
 Currently learning AI4Med; Sodility & developing on Remix
 
-My graduate studies will be conducted at Shanghai AI LAB.
+My graduate studies is conducted at Shanghai AI LAB.
 
 
 <!--
