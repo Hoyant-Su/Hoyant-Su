@@ -2,7 +2,7 @@ B.A. from Fudan university
 
 Currently learning AI4Med; Sodility & developing on Remix
 
-My graduate studies is conducted at Shanghai AI LAB.
+My graduate studies is conducted at Shanghai Innovation Institute & Shanghai Artificial Laboratory.
 
 
 <!--
